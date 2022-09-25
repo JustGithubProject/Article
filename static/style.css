@@ -1,0 +1,95 @@
+.background{
+    background-color: #e6e6e6;
+    width:800px;
+    height:500px;
+    margin-left:600px;
+    border-style: 2px;
+}
+.h1-first{
+    margin-bottom: 100px;
+    font-size:200px;
+    color:white;
+
+}
+.form-name {
+    margin-top:200px;
+    margin-left: 800px;
+    width:300px;
+
+
+
+}
+.btn{
+    margin-left:800px;
+    margin-top:20px;
+}
+.text{
+     margin-right:300px;
+     margin-top:10px;
+
+
+    width:300px;
+
+}
+
+.center{
+    margin-left:100px;
+    margin-top: 70px;
+    font-size: 120px;
+    color:white;
+
+}
+
+.container{
+    height:600px;
+}
+
+.name{
+    width:300px;
+}
+.img-putin{
+    width:100%;
+    height: 100vh;
+}
+.vhod{
+    margin-left:1000px;
+    margin-top:20px;
+
+}
+.register{
+    margin-left:30px;
+}
+.login{
+    width:500px;
+    margin-left:700px;
+    margin-top:200px;
+}
+.password{
+    width:500px;
+    margin-left:700px;
+    margin-top:20px;
+}
+.btn btn-primary{
+    margin-right:20px;
+}
+.user{
+    margin-left:100px;
+    margin-top:15px;
+}
+.other{
+    font-size:100px;
+
+}
+.novosti{
+    font-size:50px;
+}
+.body{
+    background-color:green;
+}
+.button3{
+    width:100px;
+}
+.gh{
+    background-color:#2E332F;
+
+}
