@@ -3,6 +3,7 @@ from .forms import NewsForm
 from .models import News
 from django.contrib.auth.models import User
 
+
 def news(request):
     if request.method == "POST":
         form = NewsForm(request.POST)

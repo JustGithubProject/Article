@@ -2,6 +2,7 @@ from django.db import models
 
 
 class News(models.Model):
+    """Model for NEWS"""
     name = models.CharField(max_length=200)
     text = models.TextField()
 

@@ -3,6 +3,7 @@ from .models import News
 
 
 class NewsForm(ModelForm):
+    """Form for adding news"""
     class Meta:
         model = News
         fields = ['name', 'text']
